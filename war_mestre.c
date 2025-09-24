@@ -313,3 +313,4 @@ void exibirMenu()
     printf("2. Verificar Missão\n");
     printf("0. Sair\n");
     printf("Escolha sua ação: \n");
+}
